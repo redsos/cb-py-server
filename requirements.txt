@@ -1,0 +1,15 @@
+pytz
+MySQL-python 
+simplejson
+requests
+gunicorn
+gevent
+meinheld
+markdown
+Image
+django<1.8
+django-localflavor
+django-filter
+djangorestframework
+django-rest-swagger
+django-oauth2-provider
