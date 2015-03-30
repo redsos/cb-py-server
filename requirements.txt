@@ -1,6 +1,9 @@
+virtualenv
 pytz
 MySQL-python 
 simplejson
+numpy
+PyYAML
 requests
 gunicorn
 gevent
